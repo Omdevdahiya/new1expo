@@ -1,4 +1,4 @@
 def greet():
-    print("Hello, User! Welcome to my GitHub project.")
+    print("Hello, User! Have a great coding day!")
 
 greet()
